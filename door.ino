@@ -7,7 +7,7 @@ int comp =0;
 int newpassword[4] = {0,0,0,0};   //variable for new password
 
 const char* ssid = "Shruti-ESP";    //name to be displayed
-const char* Wifi_Password = "Shubh@123";
+const char* Wifi_Password = "Shruti@123";
 
 WiFiServer server(80);            //creates server
 
